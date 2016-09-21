@@ -15,23 +15,20 @@ and make it better or learn a new and useful langauge/framework.
 
 ## Requirements
 
-Describe behavioral requirements as you'll be using them in tests. That is,
-list requirements in language that describes how the written code will be used,
-not how it will be written, with the exception of constraints you may wish to
-place on implementation. It's a good idea to include the below paragraph
-verbatim.
+_If you choose to make a new project with `PHP` and `laravel`:_
 
-You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors. After `grunt nag` passes, you should
-run `grunt test` to run the included tests. Tests will tell you whether of not
-you've met these requirements.
+-   Create and API that sends and recives C.R.U.D. reuquests.
 
-## Bonus
+-   Create a client that consumes and send JSON.
 
-Bonuses are described after the requirements, if included. They should be worked
-on **only after** passing requirements.
+-   Your client should have all C.R.U.D. actions (if applicable).
 
-Sometimes, we ask questions that promote thinking critically about code.
+-   Consider using `Router5`.
+
+_If you choose to refactor a project:_
+
+-   Refactor to incorporate `Router5` to change view states. (This is more
+    difficult then it seems).
 
 ## [License](LICENSE)
 
