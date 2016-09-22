@@ -2,11 +2,18 @@
 
 # Mini Project
 
-The purpose of this project is to refactor an old project using `Router5` or to
-use `PHP` and `laravel` to create a new project.
+The purpose of this is to use `PHP` and `laravel` to create a new
+project.
 
-Take your time and have fun, look at your old code and see how far you have come
-and make it better or learn a new and useful langauge/framework.
+Take your time and have fun learning a new and useful language/framework. This
+exercise will help grow your coding ability. Over the last 10 weeks you have
+learned 3 languages and various frameworks and libraries. Certain patterns and
+problem solving skills are common across all of them.
+
+Throughout your development career you will need to be consistently learning.
+Recognizing patterns and learning how to learn are some of the core concepts we
+have tried to impart during the course.  Please apply these skills to this
+project.
 
 ## Prerequisites
 
@@ -15,20 +22,19 @@ and make it better or learn a new and useful langauge/framework.
 
 ## Requirements
 
-_If you choose to make a new project with `PHP` and `laravel`:_
-
 -   Create and API that sends and recives C.R.U.D. reuquests.
 
--   Create a client that consumes and send JSON.
+-   Create a client that consumes and sends JSON.
 
 -   Your client should have all C.R.U.D. actions (if applicable).
 
--   Consider using `Router5`.
+## Bonus
 
-_If you choose to refactor a project:_
+To be completed after meeting requirements.
 
--   Refactor to incorporate `Router5` to change view states. (This is more
-    difficult then it seems).
+-   Try using a framework other than Bootstrap (maybe [materialize?](http://materializecss.com/))
+
+-   Try using a front end framework other then `Ember`.
 
 ## [License](LICENSE)
 
